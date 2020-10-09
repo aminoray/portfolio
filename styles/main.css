@@ -237,6 +237,10 @@ footer a {
     font-size: 18px;
 }
 
+#footer-sns-icons {
+    width: 100%;
+}
+
 .foot-second-content {
     text-align: center;
     padding-bottom: 12px;
