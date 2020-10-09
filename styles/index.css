@@ -43,7 +43,7 @@
     width: 100%;
     height: 400px;
     padding-bottom: 30px;
-    background: linear-gradient(to top, rgba(206, 206, 206, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%),url("https://aminoray.github.io/portfolio/pablic/img/DSC010042.jpg");
+    background: linear-gradient(to top, rgba(206, 206, 206, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%),url("DSC010042.jpg");
     background-repeat:  no-repeat;                         /* 画像の繰り返しを指定  */              
     background-position:center center;                     /* 画像の表示位置を指定  */
     background-size:cover;
@@ -81,7 +81,7 @@
 
 
 .third-section {
-    background: linear-gradient(to top, rgba(126, 126, 126, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%),url("https://aminoray.github.io/portfolio/pablic/img/background-white.png");
+    background: linear-gradient(to top, rgba(126, 126, 126, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%),url("background-white.png");
     background-repeat:  no-repeat;                         /* 画像の繰り返しを指定  */              
     background-position:center center;                     /* 画像の表示位置を指定  */
     background-size:cover;
